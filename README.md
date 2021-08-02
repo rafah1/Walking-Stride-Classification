@@ -8,3 +8,6 @@ Gait analysis is the assessment of the way a person walks. Usually it is done, u
 While the analysis of the stride is a dynamic problem. Current method of diagnosis is not based on movement, it is mainly observational by an expert, and mostly based on weight distribution on a sensing surface.
  
 Using the ST SensorTile fixed to the shoe, we propose that you can detect whether or not your stride is pronating or supinating. The main set of the sensors that we will use for this project are the gyro, the accelerometer, and the compass.
+
+Project Presentation in Google Docs:
+https://docs.google.com/document/d/17RcKpGCK8gkb1wyRmNkTXA7NZOqp3j9zShf3wMb5xG8/edit?usp=sharing
