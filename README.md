@@ -1,8 +1,9 @@
 
 
+# Walking-Stride-Classification
+
 ![image](https://user-images.githubusercontent.com/35944732/127803688-8f8f8a70-39e3-42e8-bb28-114fca5cb284.png)
 
-# Walking-Stride-Classification
 
 Is intuitive to all of us that having a correct gait is very important.
 A small problem in the feet, might change the way a person walks. Even subtle changes in the stride, can cause a chain reaction of adjustments of posture, and walking mechanics. These changes can put stress on the leg muscles, and body joints. Long walks and running, with a faulty stride, increase the risk of developing complications which may lead to more serious problems. That is why gait analysis is very important.
