@@ -11,3 +11,9 @@ Using the ST SensorTile fixed to the shoe, we propose that you can detect whethe
 
 Final Report in Google Docs:
 https://docs.google.com/document/d/17RcKpGCK8gkb1wyRmNkTXA7NZOqp3j9zShf3wMb5xG8/edit?usp=sharing
+
+Project Presentation in Google Docs:
+https://docs.google.com/presentation/d/1J446wwsRWfFNJ151eCp1U2G-3nKs7uOY9QrBzNaMDK0/edit?usp=sharing
+
+Demo Video in Youtube:
+https://youtu.be/eZLqpIjwU2s
