@@ -1,3 +1,7 @@
+
+
+![image](https://user-images.githubusercontent.com/35944732/127803688-8f8f8a70-39e3-42e8-bb28-114fca5cb284.png)
+
 # Walking-Stride-Classification
 
 Is intuitive to all of us that having a correct gait is very important.
