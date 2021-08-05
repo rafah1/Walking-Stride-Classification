@@ -32,12 +32,14 @@ https://youtu.be/eZLqpIjwU2s
 
 
 
+
 *Installing and using the software:*
 
 In order to use the inference model, in windows or Android, the .bin file has to be flashed into the SensorTile in the address 0x08000000, and the Json file copied over, to windows or Android App, to show text instead of number classifications. This can also be done configuring manually the classes in the app.
 
 
-*Importing the Project*
 
-The project files backup is included, in the repository, inside the code directory. The backup files have to be placed on the project folder of the machine where the SensiML Data application is installed. Also a DCLI file is included with the export of the project, and can be imported back to SensiML, and used with the included dataset on the data directory.
+*Importing the Project Environment:*
+
+The project backup files are included, in the repository, inside the code directory. The backup files have to be placed on the project folder of the machine where the SensiML Data application is installed. Also a DCLI file is included with the export of the project, and can be imported back to SensiML, and used with the included dataset on the data directory.
 
