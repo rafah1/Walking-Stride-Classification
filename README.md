@@ -22,7 +22,7 @@ https://docs.google.com/document/d/17QuSs349jSwQjLbvePzjc1PGZtA_0fR7awYbb8DRKh4/
 
 Project Presentation in Google Docs:
 
-https://docs.google.com/presentation/d/1J446wwsRWfFNJ151eCp1U2G-3nKs7uOY9QrBzNaMDK0/edit?usp=sharing
+[https://docs.google.com/presentation/d/1J446wwsRWfFNJ151eCp1U2G-3nKs7uOY9QrBzNaMDK0/edit?usp=sharing](https://docs.google.com/presentation/d/1Fl_aemodAFQdgnRf6aRWsVLJXMYLqGmxnNEM_-g0hm0/edit?usp=sharing)
 
 
 Demo Video in Youtube:
