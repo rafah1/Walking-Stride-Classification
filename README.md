@@ -17,7 +17,7 @@ Using the ST SensorTile fixed to the shoe, we propose that you can detect whethe
 
 Final Report in Google Docs:
 
-https://docs.google.com/document/d/17RcKpGCK8gkb1wyRmNkTXA7NZOqp3j9zShf3wMb5xG8/edit?usp=sharing
+https://docs.google.com/document/d/17QuSs349jSwQjLbvePzjc1PGZtA_0fR7awYbb8DRKh4/edit?usp=sharing
 
 
 Project Presentation in Google Docs:
